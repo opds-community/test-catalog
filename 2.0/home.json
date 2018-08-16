@@ -9,7 +9,7 @@
   
   "navigation": [
     {
-      "href": "https://feedbooks.github.io/opds-test-catalog/opds-2/home.json", 
+      "href": "https://test.opds.io/2.0/home.json", 
       "title": "Best Selling (Absolute URI)", 
       "type": "application/opds+json", 
       "rel": "http://opds-spec.org/sort/popular"
