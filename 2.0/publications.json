@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "OPDS 2.0 Test Publications",
-    "numberOfItems": 3
+    "numberOfItems": 8
   },
   
   "links": [
@@ -23,7 +23,7 @@
         "publisher": "Feedbooks",
         "imprint": "Feedbooks Classics",
         "numberOfPages": 251,
-        "subjects": [
+        "subject": [
           {
             "name": "Science Fiction",
             "code": "FBFIC028000"
@@ -33,7 +33,7 @@
             "code": "FBFIC002000"
           }
         ],
-        "belongs_to": {
+        "belongsTo": {
           "series": {
             "name": "Les classiques SF de Verne",
             "position": 5
@@ -69,7 +69,7 @@
         "publisher": "Feedbooks",
         "imprint": "Feedbooks Classics",
         "numberOfPages": 251,
-        "subjects": [
+        "subject": [
           {
             "name": "Science Fiction",
             "code": "FBFIC028000"
@@ -79,7 +79,7 @@
             "code": "FBFIC002000"
           }
         ],
-        "belongs_to": {
+        "belongsTo": {
           "series": {
             "name": "Les classiques SF de Verne",
             "position": 5
@@ -112,7 +112,7 @@
         "publisher": "Feedbooks",
         "imprint": "Feedbooks Classics",
         "numberOfPages": 251,
-        "subjects": [
+        "subject": [
           {
             "name": "Science Fiction",
             "code": "FBFIC028000"
@@ -122,7 +122,223 @@
             "code": "FBFIC002000"
           }
         ],
-        "belongs_to": {
+        "belongsTo": {
+          "series": {
+            "name": "Les classiques SF de Verne",
+            "position": 5
+          },
+          "collection": "Domaine Public"
+        },
+        "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Author Using an Object",
+        "author": {
+          "name": "Jules Verne",
+          "sortAs": "Verne, Jules",
+          "identifier": "http://www.isni.org/isni/0000000121400562",
+          "links": [
+            {"href": "https://test.opds.io/2.0/publications.json", "type": "application/opds+json"}
+          ]
+        },
+        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+        "language": "fr",
+        "modified": "2018-04-23T22:15:00Z",
+        "published": "1864-01-01",
+        "publisher": "Feedbooks",
+        "imprint": "Feedbooks Classics",
+        "numberOfPages": 251,
+        "subject": [
+          {
+            "name": "Science Fiction",
+            "code": "FBFIC028000"
+          },
+          {
+            "name": "Action & Aventure",
+            "code": "FBFIC002000"
+          }
+        ],
+        "belongsTo": {
+          "series": {
+            "name": "Les classiques SF de Verne",
+            "position": 5
+          },
+          "collection": "Domaine Public"
+        },
+        "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Multiple Authors Using Objects",
+        "author": [
+          {"name": "Jules Verne"},
+          {"name": "Second Author"}
+        ],
+        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+        "language": "fr",
+        "modified": "2018-04-23T22:15:00Z",
+        "published": "1864-01-01",
+        "publisher": "Feedbooks",
+        "imprint": "Feedbooks Classics",
+        "numberOfPages": 251,
+        "subject": [
+          {
+            "name": "Science Fiction",
+            "code": "FBFIC028000"
+          },
+          {
+            "name": "Action & Aventure",
+            "code": "FBFIC002000"
+          }
+        ],
+        "belongsTo": {
+          "series": {
+            "name": "Les classiques SF de Verne",
+            "position": 5
+          },
+          "collection": "Domaine Public"
+        },
+        "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "All Contributors",
+        "author": "Jules Verne",
+        "editor": "John Editor",
+        "translator": "Emily Translator",
+        "artist": "Jack Artist",
+        "illustrator": "Jane Illustrator",
+        "letterer": "Francis Letterer",
+        "penciler": "Mary Penciler",
+        "colorist": "William Colorist",
+        "inker": "Emma Inker",
+        "narrator": "Mickey Narrator",
+        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+        "language": "fr",
+        "modified": "2018-04-23T22:15:00Z",
+        "published": "1864-01-01",
+        "publisher": "Feedbooks",
+        "imprint": "Feedbooks Classics",
+        "numberOfPages": 251,
+        "subject": [
+          {
+            "name": "Science Fiction",
+            "code": "FBFIC028000"
+          },
+          {
+            "name": "Action & Aventure",
+            "code": "FBFIC002000"
+          }
+        ],
+        "belongsTo": {
+          "series": {
+            "name": "Les classiques SF de Verne",
+            "position": 5
+          },
+          "collection": "Domaine Public"
+        },
+        "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Subject Using a Single String",
+        "author": "Jules Verne",
+        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+        "language": "fr",
+        "modified": "2018-04-23T22:15:00Z",
+        "published": "1864-01-01",
+        "publisher": "Feedbooks",
+        "imprint": "Feedbooks Classics",
+        "numberOfPages": 251,
+        "subject": "Science Fiction",
+        "belongsTo": {
+          "series": {
+            "name": "Les classiques SF de Verne",
+            "position": 5
+          },
+          "collection": "Domaine Public"
+        },
+        "description": "Le professeur Lidenbrock trouve un document dans lequel il apprend l'existence d'un volcan éteint dont la cheminée pourrait le conduire jusqu'au centre de la Terre. Accompagné de son neveu Axel et du guide Hans, il se rend au volcan Sneffels, en Islande, et s'engouffre dans les entrailles de la Terre. Ils ne tarderont pas à faire d'étonnantes découvertes..."
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "title": "Subject Using an Array of Strings",
+        "author": "Jules Verne",
+        "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
+        "language": "fr",
+        "modified": "2018-04-23T22:15:00Z",
+        "published": "1864-01-01",
+        "publisher": "Feedbooks",
+        "imprint": "Feedbooks Classics",
+        "numberOfPages": 251,
+        "subject": ["Fiction", "Science Fiction"],
+        "belongsTo": {
           "series": {
             "name": "Les classiques SF de Verne",
             "position": 5

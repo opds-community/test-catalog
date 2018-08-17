@@ -63,7 +63,7 @@
             "published": "1864-01-01",
             "publisher": "Feedbooks",
             "numberOfPages": 251,
-            "subjects": [
+            "subject": [
               {
                 "name": "Science Fiction",
                 "code": "FBFIC028000"
