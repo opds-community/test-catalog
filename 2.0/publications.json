@@ -637,7 +637,7 @@
             "holds": {"total": 100},
             "availability": {
               "state": "unavailable", 
-              "until": 2019-09-07
+              "until": "2019-09-07"
             }
           }
         }
