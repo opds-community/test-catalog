@@ -78,13 +78,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/centredelaterre/file.epub", 
+              "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
               "type": "application/epub+zip"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-            {"href": "https://test.opds.io/2.0/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+            {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+            {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
           ]
         },
         {
@@ -104,13 +104,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/rougenoir/file.epub", 
+              "href": "https://test.opds.io/assets/rougenoir/file.epub", 
               "type": "application/epub+zip"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/rougenoir/small.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image/thumbnail"},
-            {"href": "https://test.opds.io/2.0/assets/rougenoir/normal.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image"}
+            {"href": "https://test.opds.io/assets/rougenoir/small.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image/thumbnail"},
+            {"href": "https://test.opds.io/assets/rougenoir/normal.jpg", "type": "image/jpeg", "rel": "http://opds-spec.org/image"}
           ]
         },
         {
@@ -129,13 +129,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/chambrejaune/file.epub", 
+              "href": "https://test.opds.io/assets/chambrejaune/file.epub", 
               "type": "application/epub+zip"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/2.0/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {"href": "https://test.opds.io/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+            {"href": "https://test.opds.io/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
           ]
         },
         {
@@ -153,13 +153,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/bovary/file.epub", 
+              "href": "https://test.opds.io/assets/bovary/file.epub", 
               "type": "application/epub+zip"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/bovary/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/2.0/assets/bovary/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {"href": "https://test.opds.io/assets/bovary/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+            {"href": "https://test.opds.io/assets/bovary/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
           ]
         },
         {
@@ -183,13 +183,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/swann/file.epub", 
+              "href": "https://test.opds.io/assets/swann/file.epub", 
               "type": "application/epub+zip"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/swann/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/2.0/assets/swann/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {"href": "https://test.opds.io/assets/swann/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+            {"href": "https://test.opds.io/assets/swann/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
           ]
         }
       ]
@@ -224,13 +224,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/moby/file.epub", 
+              "href": "https://test.opds.io/assets/moby/file.epub", 
               "type": "application/webpub+json"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/2.0/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {"href": "https://test.opds.io/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+            {"href": "https://test.opds.io/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
           ]
         },
         {
@@ -248,13 +248,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/romeo/file.epub", 
+              "href": "https://test.opds.io/assets/romeo/file.epub", 
               "type": "application/webpub+json"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/2.0/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {"href": "https://test.opds.io/assets/romeo/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+            {"href": "https://test.opds.io/assets/romeo/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
           ]
         },
         {
@@ -272,13 +272,13 @@
           "links": [
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
-              "href": "https://test.opds.io/2.0/assets/eyre/file.epub", 
+              "href": "https://test.opds.io/assets/eyre/file.epub", 
               "type": "application/webpub+json"
             }
           ],
           "images": [
-            {"href": "https://test.opds.io/2.0/assets/eyre/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-            {"href": "https://test.opds.io/2.0/assets/eyre/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+            {"href": "https://test.opds.io/assets/eyre/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+            {"href": "https://test.opds.io/assets/eyre/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
           ]
         }
       ]
@@ -300,13 +300,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/2.0/assets/moby/file.epub", 
+          "href": "https://test.opds.io/assets/moby/file.epub", 
           "type": "application/webpub+json"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/2.0/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-        {"href": "https://test.opds.io/2.0/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+        {"href": "https://test.opds.io/assets/moby/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/moby/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
       ]
     },
     {
@@ -325,13 +325,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/2.0/assets/chambrejaune/file.epub", 
+          "href": "https://test.opds.io/assets/chambrejaune/file.epub", 
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/2.0/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
-        {"href": "https://test.opds.io/2.0/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
+        {"href": "https://test.opds.io/assets/chambrejaune/small.jpg", "type": "image/jpeg", "height": 169, "width": 110},
+        {"href": "https://test.opds.io/assets/chambrejaune/normal.jpg", "type": "image/jpeg", "height": 400, "width": 260}
       ]
     }
   ]

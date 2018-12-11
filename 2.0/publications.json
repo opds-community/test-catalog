@@ -45,7 +45,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://feedbooks.github.io/opds-test-catalog/assets/centredelaterre/file.epub", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
           "type": "application/epub+zip"
         }
       ],
@@ -486,7 +486,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/buy", 
-          "href": "https://feedbooks.github.io/opds-test-catalog/assets/centredelaterre/file.epub", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
           "type": "application/epub+zip",
           "properties": {
             "price": {
@@ -535,7 +535,7 @@
       "links": [
         {
           "rel": ["http://opds-spec.org/acquisition/sample", "preview"], 
-          "href": "https://feedbooks.github.io/opds-test-catalog/assets/centredelaterre/file.epub", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
           "type": "application/epub+zip"
         }
       ],
@@ -578,7 +578,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/subscribe", 
-          "href": "https://feedbooks.github.io/opds-test-catalog/assets/centredelaterre/file.epub", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
           "type": "application/epub+zip",
           "properties": {
             "price": {
@@ -627,7 +627,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/borrow", 
-          "href": "https://feedbooks.github.io/opds-test-catalog/assets/centredelaterre/file.epub", 
+          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
           "type": "application/epub+zip",
           "properties": {
             "copies": {
