@@ -9,28 +9,6 @@
   
   "navigation": [
     {
-      "href": "https://test.opds.io/2.0/home.json", 
-      "title": "Best Selling (Absolute URI)", 
-      "type": "application/opds+json", 
-      "rel": "http://opds-spec.org/sort/popular"
-    },
-    {
-      "href": "home.json", 
-      "title": "New Releases (Relative URI)", 
-      "type": "application/opds+json", 
-      "rel": "http://opds-spec.org/sort/new"
-    },
-    {
-      "href": "/2.0/home.json", 
-      "title": "Staff Picks (Also Relative)", 
-      "type": "application/opds+json"
-    },
-    {
-      "href": "https://test.opds.io/2.0/404.json", 
-      "title": "Categories (404)", 
-      "type": "application/opds+json"
-    },
-    {
       "href": "https://test.opds.io/2.0/navigation.json", 
       "title": "Explore (Navigation Feed)", 
       "type": "application/opds+json"
@@ -38,6 +16,36 @@
     {
       "href": "https://test.opds.io/2.0/publications.json", 
       "title": "French Books (Publications Feed)", 
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Third Link", 
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Fourth Link", 
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Fifth Link", 
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Sixth Link", 
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Seventh Link", 
+      "type": "application/opds+json"
+    },
+    {
+      "href": "https://test.opds.io/2.0/home.json", 
+      "title": "Eight Link", 
       "type": "application/opds+json"
     }
   ],
