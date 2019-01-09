@@ -225,7 +225,7 @@
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
               "href": "https://test.opds.io/assets/moby/file.epub", 
-              "type": "application/webpub+json"
+              "type": "application/epub+zip"
             }
           ],
           "images": [
@@ -249,7 +249,7 @@
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
               "href": "https://test.opds.io/assets/romeo/file.epub", 
-              "type": "application/webpub+json"
+              "type": "application/epub+zip"
             }
           ],
           "images": [
@@ -273,7 +273,7 @@
             {
               "rel": "http://opds-spec.org/acquisition/open-access", 
               "href": "https://test.opds.io/assets/eyre/file.epub", 
-              "type": "application/webpub+json"
+              "type": "application/epub+zip"
             }
           ],
           "images": [
@@ -301,7 +301,7 @@
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
           "href": "https://test.opds.io/assets/moby/file.epub", 
-          "type": "application/webpub+json"
+          "type": "application/epub+zip"
         }
       ],
       "images": [
